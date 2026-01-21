@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+    <h2>Photo</h2>
+    <img src="photo.jpg" alt="My Photo" width="150">
+    <h2>Basic Details</h2>
+    <p><strong>Full Name:</strong> Adamya Chhabra</p>
+    <p><strong>Mobile Number:</strong> 8529083241</p>
+    <p><strong>Email ID:</strong> harishchhabra079@gmail.com</p>
+    <p><strong>Address:</strong> 3/113 Shankar colony, Near bank colony Shri Ganaganagar</p>
+    <h2>About Me</h2>
+    <p>
+        A dedicated engineering student with an interest in technology, teamwork, and continuous learning, aiming to build strong technical and professional skills.
+    </p>
+    <h2>Social Links</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/adamya-chhabra/?utm_source=ig&utm_medium=social&utm_content=link_in_bio" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/AdamyaChhabra" target="_blank">GitHub</a></li>
+        <li><a href="https://www.instagram.com/adamya_chhabra/" target="_blank">Instagram</a></li>
+    </ul>
+    <h2>Educational Qualifications</h2>
+    <ul>
+        <li>B.E in Computer science and engineering(Cloud Computing) 2024-present</li>
+        <li>Vidhya Bharti Public School, Sikar 2024   <br>12th 68%</li>
+        <li>Nosegay Public School, Shri Ganganagar 2022    <br>10th 86.4%</li>
+    </ul>
+    <h2>Skills</h2>
+    <h3>Technical Skills</h3>
+    <ul>
+        <li>c++</li>
+        <li>Html</li>
+    </ul>
+    <h3>Soft Skills</h3>
+    <ul>
+        <li>Team Management</li>
+        <li>Leadership</li>
+    </ul>
+    <h2>Achievements</h2>
+    <ul>
+        <li>Participated in Tech Events</li>
+        <li>Attended AWS Cloud Bootcamp</li>
+    </ul>
+    <h2>Languages Known</h2>
+    <ul>
+        <li>Hindi - 4/5</li>
+        <li>English - 3/5</li>
+        <li>Punjabi - 2/5</li>
+        <li>French - 1/5</li>
+    </ul>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Learning new skills</li>
+        <li>Content creation</li>
+    </ul>
+</body>
+</html>
