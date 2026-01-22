@@ -6,7 +6,7 @@
 </head>
 <body>
     <h2>Photo</h2>
-    <img src="./photo.jpg" alt="My Photo" width="150">
+    <img src="photo.jpg" alt="My Photo" width="150">
     <h2>Basic Details</h2>
     <p><strong>Full Name:</strong> Adamya Chhabra</p>
     <p><strong>Mobile Number:</strong> 8529083241</p>
